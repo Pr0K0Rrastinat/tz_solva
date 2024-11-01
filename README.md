@@ -1,2 +1,36 @@
-# tz_solva
-This project is the tz for Laboratory 3.0 company Solva. The main idea for the project is create a simple game "Guess the Number". In project I use Flutter BLoC (Business Logic Component) for control the state. For me it's my first time I used those packet for control state. In past I just use simple State. So this is my project for interview.
+# Tz Solva
+
+## Описание
+
+"Guess the Number" — это простая игра, в которой пользователю необходимо угадать случайное число в заданном диапазоне за ограниченное количество попыток. Игра использует пакет `flutter_bloc` для управления состоянием.
+
+## Стек технологий
+
+- Flutter
+- Dart
+- flutter_bloc
+
+## Установка
+
+1. Клонируйте репозиторий:
+
+   git clone https://github.com/yourusername/tz_solva.git
+
+2.Перейдите в каталог проекта:
+
+    cd tz_solva
+    Установите зависимости:
+
+
+    flutter pub get
+    Запустите приложение:
+
+
+    flutter run
+
+Как играть
+Запустите приложение на вашем устройстве или эмуляторе.
+Введите ваше предположение в текстовое поле.
+Нажмите кнопку "Submit Guess", чтобы проверить ваше предположение.
+Игра будет продолжаться, пока вы не угадаете число или не исчерпаете все попытки.
+После завершения игры вы можете начать новую игру, нажав на кнопку "Play Again".
