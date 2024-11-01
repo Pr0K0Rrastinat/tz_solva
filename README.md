@@ -14,7 +14,7 @@
 
 1. Клонируйте репозиторий:
 
-   git clone https://github.com/yourusername/tz_solva.git
+   git clone https://github.com/Pr0K0Rrastinat/tz_solva
 
 2.Перейдите в каталог проекта:
 
